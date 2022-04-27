@@ -1,3 +1,3 @@
 # Web3 AirBnb Clone
 
-This project was built using Solidity/Moralis/ReactJS/nodeJS. 
+This project was built on the Polygon Mumbai Testnet using Solidity/Moralis/ReactJS/NodeJS. 
